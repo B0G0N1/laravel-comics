@@ -1,1 +1,26 @@
 @import '~bootstrap/scss/bootstrap';
+
+.logo {
+    img {
+        width: 75px;
+    }
+}
+
+.search {
+    input {
+        border: none;
+        border-bottom: 3px solid blue;
+    }
+}
+
+.nav-link.active {
+    border-bottom: 2px solid blue;
+    color: blue;
+}
+
+#jumbotron {
+    background-image: url('../img/jumbotron.jpg');
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
