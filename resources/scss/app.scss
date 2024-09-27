@@ -60,12 +60,19 @@ main {
         top: -20px;
     }
 
+    .load-more {
+        background-color: #0c7cec;
+        position: absolute;
+        left: 40%;
+        bottom: 15px;
+    }
+
     #adv {
-        height: 200px;
         background-color: #0c7cec;
 
         img {
-            height: 80px;
+            height: 50px;
+            width: 40px;
         }
     }
 }
@@ -133,5 +140,4 @@ footer {
     .small {
         font-size: 12px;
     }
-
 }
