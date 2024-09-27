@@ -1,7 +1,7 @@
 <footer>
     <div class="container">
         <div class="row">
-            <!-- DC COMICS Column -->
+            <!-- Colonna DC COMICS -->
             <div class="col-2">
                 <h5 class="text-white">DC COMICS</h5>
                 <ul class="list-unstyled">
@@ -13,14 +13,14 @@
                     <li><a href="#">Videos</a></li>
                     <li><a href="#">News</a></li>
                 </ul>
-                <!-- SHOP Column -->
+                <!-- Colonna SHOP -->
                 <h5 class="text-white mt-5">SHOP</h5>
                 <ul class="list-unstyled">
                     <li><a href="#">Shop DC</a></li>
                     <li><a href="#">Shop DC Collectibles</a></li>
                 </ul>
             </div>
-            <!-- DC Column -->
+            <!-- Colonna DC -->
             <div class="col-2">
                 <h5 class="text-white">DC</h5>
                 <ul class="list-unstyled">
@@ -37,7 +37,7 @@
                     <li><a href="#">Contact Us</a></li>
                 </ul>
             </div>
-            <!-- SITES Column -->
+            <!-- Colonna SITES -->
             <div class="col-2">
                 <h5 class="text-white">SITES</h5>
                 <ul class="list-unstyled">
@@ -48,7 +48,7 @@
                     <li><a href="#">DC Power Visa</a></li>
                 </ul>
             </div>
-            <!-- IMAGE Column -->
+            <!-- Colonna Immagine di sfondo -->
             <div class="col-6 bg-logo"></div>
         </div>
     </div>

@@ -1,11 +1,13 @@
 @import '~bootstrap/scss/bootstrap';
 
+// Stile per il logo
 .logo {
     img {
         width: 75px;
     }
 }
 
+// Stile per la barra di ricerca
 .search {
     input {
         border: none;
@@ -13,11 +15,13 @@
     }
 }
 
+// Link attivo nella navbar
 .nav-link.active {
     border-bottom: 2px solid blue;
     color: blue;
 }
 
+// Stile per il Jumbotron
 #jumbotron {
     background-image: url('../img/jumbotron.jpg');
     height: 300px;
@@ -25,10 +29,12 @@
     background-repeat: no-repeat;
 }
 
+// Stile generale del main
 main {
     background-color: #000;
     color: #fff;
 
+    // Stile per il container dei fumetti
     #comics-container {
         padding: 50px 0px;
         position: relative;
@@ -77,8 +83,9 @@ main {
     }
 }
 
+// Stile per il footer
 footer {
-    background-image: url('../img/footer-bg.jpg');;
+    background-image: url('../img/footer-bg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
