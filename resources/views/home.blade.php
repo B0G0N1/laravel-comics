@@ -31,4 +31,31 @@
             </div>
         </div>
     </div>
+
+    <div id="adv">
+        <div class="container white">
+            <div class="row">
+                <div class="col">
+                    <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="DC Comics">
+                    <span class="ms-2">DIGITAL COMICS</span>
+                </div>
+                <div class="col">
+                    <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="DC Comics">
+                    <span>DIGITAL COMICS</span>
+                </div>
+                <div class="col">
+                    <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="DC Comics">
+                    <span>DIGITAL COMICS</span>
+                </div>
+                <div class="col">
+                    <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="DC Comics">
+                    <span>DIGITAL COMICS</span>
+                </div>
+                <div class="col">
+                    <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="DC Comics">
+                    <span>DIGITAL COMICS</span>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection
